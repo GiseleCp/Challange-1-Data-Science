@@ -1,3 +1,11 @@
+🛍️ Desafio Alura Store – Qual loja vender?
+
+Bem-vindo(a) ao repositório do desafio prático! 
+Aqui, ajudei o Senhor João, dono da rede Alura Store, a decidir qual das suas 4 lojas fictícias vender para investir em um novo empreendimento.
+
+📌 Objetivo do desafio
+Analisar faturamento, dados de vendas, desempenho e avaliações das lojas da Alura Store, identificar a loja menos eficiente e apresentar uma recomendação final baseada em dados.
+
 📊 Análise de Performance de Lojas – Projeto de BI
 
 Este projeto tem como objetivo realizar uma análise detalhada de performance de quatro lojas com base em múltiplos indicadores de desempenho, como faturamento, vendas por categoria, avaliações de clientes, frete médio e produtos mais e menos vendidos.
@@ -50,8 +58,16 @@ Loja 4 – Logística excelente, mas mix de produtos mal direcionado impacta fat
 
 💼 Tecnologias Utilizadas
 
-Python (Pandas, NumPy)
+Python (Pandas, NumPy, Matplotlib)
 
 Jupyter Notebook
 
 Git e GitHub para versionamento
+
+📁 Como acessar
+Clone este repositório
+Abra o arquivo .ipynb no Jupyter Notebook
+Execute as células para ver o passo a passo da análise
+
+
+📬 Em caso de dúvidas ou sugestões, sinta-se à vontade pra abrir uma issue ou entrar em contato!
