@@ -51,5 +51,7 @@ Loja 4 – Logística excelente, mas mix de produtos mal direcionado impacta fat
 💼 Tecnologias Utilizadas
 
 Python (Pandas, NumPy)
+
 Jupyter Notebook
+
 Git e GitHub para versionamento
